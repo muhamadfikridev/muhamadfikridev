@@ -1,6 +1,6 @@
 # Halo, Saya Muhamad Fikri! 👋 🤴
 
-![Muhamad Fikri](img/bannerr.png)
+![Muhamad Fikri](<img/bannerr.png>)
 
 # 🏗️ "Coding is a marathon, not a sprint." Saya percaya bahwa menguasai fundamental adalah kunci untuk menjadi developer yang handal.
 
